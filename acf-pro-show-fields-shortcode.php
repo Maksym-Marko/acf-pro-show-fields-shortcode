@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: ACF Pro show fields shortcode
-Plugin URI: https://github.com/Maxim-us/wp-plugin-skeleton
+Plugin URI: https://github.com/Maxim-us/acf-pro-show-fields-shortcode
 Description: If you use ACF Pro, you can display some fields on your pages with shortcode. e.g. [mxasts_acfp_show_field debug="true" get_field="card" show_all_fields="true"]
 Author: Marko Maksym
 Version: 1.0
-Author URI: https://github.com/Maxim-us
+Author URI: http://markomaksym.com.ua/
 */
 
 // Exit if accessed directly
